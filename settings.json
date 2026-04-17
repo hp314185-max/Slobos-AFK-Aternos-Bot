@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "criativecraftCSV3.aternos.me",
-    "port": ,
+    "port":43292 ,
     "version": "",
     "try-creative": false
   },
